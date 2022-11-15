@@ -2,7 +2,7 @@
 
 - 👨‍💻 Hoje Trabalho com Front-End.
 - 📚 Atualmente estou estudando Javascript e Lua.
-- 📧 Contate-me no email: arthurgonçalvesp@hotmail.com.
+- 📧 Contate-me no email: arthurgonçalvesp@hotmail.com
 
 <div align="center">
   <a href="https://github.com/ArthurGP">
