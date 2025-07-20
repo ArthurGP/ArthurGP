@@ -1,8 +1,8 @@
 ### Olá, Eu sou o Arthur Pardim
 
 - 👨‍💻 Hoje Trabalho com Front-End.
-- 📚 Atualmente estou estudando Javascript e Lua.
-- 📧 Contate-me no email: arthurgonçalvesp@hotmail.com
+- 📚 Atualmente estou estudando Javascript.
+- 📧 Contate-me no email: arhurpardim@hotmail.com
 
 <div align="center">
   <a href="https://github.com/ArthurGP">
